@@ -1,5 +1,5 @@
 > **Template:** API Endpoint Reference Page  
-> **Based on:** [Plaid's API Transactions Endpoint Reference](https://plaid.com/docs/api/#api-endpoints-and-webhooks)  
+> **Based on:** [Plaid's API Transactions Endpoint Reference](https://plaid.com/docs/api/products/transactions/)  
 > **Why it works:** By linking triggered endpoints directly to their corresponding webhooks, Plaid closes the "action-to-feedback" loop on a single page. This removes the need for developers to search through separate sections to understand the full lifecycle of a single request.
 
 ---
