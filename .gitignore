@@ -1,0 +1,18 @@
+# Technical Writer Local Documentation
+# These folders are for local brainstorming and should not be pushed to GitHub
+
+doc analysis/
+draft-template/
+good-docs-templates/
+interviews/
+technical-content-template/
+templates/
+the-tech-writer-questions/
+troubleshooting/
+technical-writer/
+brainstorming_local/
+
+# VS Code and Tooling
+.agents/
+.vscode/
+.gemini/
